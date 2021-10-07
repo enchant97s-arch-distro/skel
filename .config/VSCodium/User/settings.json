@@ -1,0 +1,11 @@
+{
+    "todo-tree.tree.showScanModeButton": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "workbench.sideBar.location": "right",
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.minimap.enabled": false,
+    "workbench.editor.untitled.hint": "hidden"
+}
