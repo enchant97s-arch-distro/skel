@@ -23,7 +23,7 @@ font:
     family: "Fira Code"
 
 draw_bold_text_with_bright_colors: true
-background_opacity: 1.0
+window.opacity: 1.0
 
 save_to_clipboard: true
 
